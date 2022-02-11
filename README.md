@@ -3,7 +3,7 @@
 
 
 
-<img src="./biblicaltheme.png" alt="exemplo imagem">
+<img src="./biblicaltheme.png" width="250px" alt="exemplo imagem">
 
 Uma aplicação web onde contém temas bíblicos relacionados com versículos que aparecem abaixo.
 
